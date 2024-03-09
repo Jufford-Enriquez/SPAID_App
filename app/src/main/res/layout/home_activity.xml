@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/nameDisplay"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="40dp"
+        android:text="@string/name"
+        android:textSize="20sp"/>
+
+
+    <TextView
+        android:id="@+id/sexDisplay"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="40dp"
+        android:text="@string/sex"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/addressDisplay"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="40dp"
+        android:text="@string/addressText"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/personNumDisplay"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="40dp"
+        android:text="@string/number_inforamtion"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/contactPersonDisplay"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="40dp"
+        android:text="@string/contactPerson"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/contactPersonNumInfoDisplay"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="40dp"
+        android:text="@string/numberinformation"
+        android:textSize="20sp"/>
+
+</LinearLayout>

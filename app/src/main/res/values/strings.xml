@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="name">Name</string>
+    <string name="sex">Sex</string>
+    <string name="address">Address</string>
+    <string name="number_info">Number Info</string>
+    <string name="password">Password</string>
+    <string name="number_information">Number Information</string>
+    <string name="contact_person">Contact Person</string>
+    <string name="welcome_to_spaid">welcome_to SPAID</string>
+    <string name="number_infomation">Number Infomation</string>
+    <string name="email">Email</string>
+    <string name="create_account">Create Account!</string>
+    <string name="login">LOGIN</string>
+    <string name="textview">TextView</string>
+    <string name="nameTextView">TextView</string>
+    <string name="number_inforamtion">Number Inforamtion</string>
+    <string name="addressText">Address</string>
+    <string name="contactPerson">Contact Person</string>
+    <string name="numberinformation">Number Information</string>
+    <string name="signup">SIGNUP</string>
+    <string name="nameEditText">Name</string>
+    <string name="sexEditText">Sex</string>
+    <string name="passwordEditText">Password</string>
+</resources>
